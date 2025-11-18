@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128420333094",
+    "project_id": "projeto-app-debate-af76d",
+    "storage_bucket": "projeto-app-debate-af76d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128420333094:android:27a32ca741e66439a908e7",
+        "android_client_info": {
+          "package_name": "pt.ipsantarem.projeto_app_debate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcO6JIvWv_-igsTP-o_4hhr9d3Y1CF_9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
